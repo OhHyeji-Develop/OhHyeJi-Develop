@@ -1,4 +1,5 @@
-### Hi there 👋
+### 안녕하세요. 오혜지입니다! 👋
+
 
 <!--
 **OhHyeji-Develop/OhHyeJi-Develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
