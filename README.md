@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8D7FF&height=300&section=header&text=안녕하세요.%20오혜지입니다!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8D7FF&height=300&section=header&text=🖐%20신입 웹개발자 오혜지입니다!&fontSize=50" />
 
 <!--
 **OhHyeji-Develop/OhHyeJi-Develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
